@@ -1,0 +1,56 @@
+{
+    "title": "Budding Software Engineer",
+    "Summary": "I am passionate about Material Science and Computer Science",
+    "studies":[
+        {
+            "institute": "Federal University of Technology, Owerri",
+            "logo":"#",
+            "url":"https://www.futo.edu.org",
+            "title":"Bachelor on Material and Metallurgical Engineering",
+            "durationInYear": "5",
+            "graduationYear": 2019
+        }
+    ] ,
+    "certification":[
+        {
+            "logo":"https://www.google.com",
+            "url": "https://www.google.com",
+            "title": "Fundamental Digital Margeting",
+            "issuer": "Google",
+            "issueDate": "2020-07-08",
+            "expiryDate": "3000-07-09",
+            "verificationLink":"https://www.bukkish.com"
+        }
+    ], 
+    "experience" : [
+        {
+            "companyName": "Montego Upstream Service",
+            "logo":"https//www.montego.com",
+            "url":"https//www.montego.com",
+            "roles":[
+                {
+                    "title": "Intern",
+                    "description": "development of designs that help the successful disposal of drill waste",
+                    "startDate": "2018-02-03",
+                    "endDate": "2018-12-02",
+                    "location": "Lagos Ikoyi"
+                }
+            ]
+        },
+        {
+            "companyName": "Bukkish",
+            "logo":"#",
+            "url":"https://www.bukkish.com",
+            "role": [
+                {
+                    "title": "Software Developer",
+                    "description": "Development of Educational soft",
+                    "startDate":"2019-08-15",
+                    "currentJob":true,
+                    "location":"Lagos Ajah"
+                }
+            ]
+        }
+    ]
+    
+}
